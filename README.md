@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Interactive CV Dashboard project, a unique approach to presenting Paolo's professional journey. By integrating OpenAI's ChatGPT, users can dive deep into my expertise and experiences in an engaging Q&A format.
+Welcome to the [Interactive CV Dashboard](https://zifferero.streamlit.app/) project, a unique approach to presenting Paolo's professional journey. By integrating OpenAI's ChatGPT, users can dive deep into my expertise and experiences in an engaging Q&A format.
 
 Whether you're curious about my proficiency with Python, SQL, dbt or any other part of my professional path, just ask away! This platform is designed to give you a dynamic insight into my professional world.
 
