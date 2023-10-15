@@ -25,9 +25,9 @@
         "spanish": "Soy Paolo, encantado. Mi especialidad reside en el análisis y la ingeniería de datos. Manejo con destreza herramientas como Python, SQL, dbt, Tableau/PowerBI y Apache Airflow para obtener perspectivas significativas y optimizar procesos."
         },
     "Write Here": {
-        "english": "Write your question in the text box below",
-        "italian": "Scrivi qui sotto la tua domanda",
-        "spanish": "Escribe tu pregunta aquí abajo"
+        "english": "Write your question in the text box below 🔽",
+        "italian": "Scrivi qui sotto la tua domanda 🔽",
+        "spanish": "Escribe tu pregunta aquí abajo 🔽"
         },
     "Reaction": {
         "english": "User's expected reaction",
