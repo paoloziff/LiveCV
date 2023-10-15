@@ -1,0 +1,37 @@
+{
+    "Title": {
+        "english": "Welcome to My Interactive CV - Where Data Meets Creativity",
+        "italian": "Benvenuto nel Mio CV Interattivo",
+        "spanish": "Bienvendo en Mi CV Interactivo"
+        },
+    "Small Text": {
+        "english": "Ever wondered what it's like to bring a CV to life? Dive into my journey as a data analyst and engineer. And here's the fun part: Ask any question about my expertise or experiences, and you'll get a personalized response, powered by ChatGPT and flavored with my entire CV in the backdrop. Try it out and let's make talent acquisitions a tad more exciting!",
+        "italian": "Ti sei mai chiesto come sarebbe animare un CV? Immergiti nella mia avventura come data analyst. E qui arriva la parte divertente: Fai qualsiasi domanda sulle mie competenze o esperienze, e riceverai una risposta personalizzata, _powered by_ ChatGPT e condita con tutto il mio CV. Provalo e rendiamo le candidature un po' più entusiasmanti!",
+        "spanish": "¿Alguna vez te has preguntado cómo sería darle vida a un CV? Sumérgete en mi trayectoria como business analyst. Y aquí viene la parte divertida: Haz cualquier pregunta sobre mi experiencia o habilidades y recibirás una respuesta personalizada, _powered by_ ChatGPT y con el sabor de todo mi CV detrás. ¡Pruébalo y hagamos las solicitudes de trabajo un poco más emocionantes!"
+        },
+    "Response": {
+        "english": "Response:",
+        "italian": "Risposta:",
+        "spanish": "Respuesta:"
+        },
+    "Sidebar Title": {
+        "english": "### Hello there",
+        "italian": "### Ciao",
+        "spanish": "### Hola"
+        },
+    "Sidebar Text": {
+        "english": "I'm Paolo, and data is my favourite language. I dance with Python, whisper to SQL, craft with dbt, visualize with Tableau/PowerBI, and orchestrate using Apache Airflow. Let's chat about my stories data can tell",
+        "italian": "Piacere, sono Paolo. La mia competenza risiede nell'analisi e nella manipolazione dei dati. Utilizzo con destrezza strumenti come Python, SQL, dbt, Tableau/PowerBI e Apache Airflow per processare, trasformare e pulire i dati, e infine portarli alla luce.",
+        "spanish": "Soy Paolo, encantado. Mi especialidad reside en el análisis y la ingeniería de datos. Manejo con destreza herramientas como Python, SQL, dbt, Tableau/PowerBI y Apache Airflow para obtener perspectivas significativas y optimizar procesos."
+        },
+    "Write Here": {
+        "english": "Write your question in the text box below",
+        "italian": "Scrivi qui sotto la tua domanda",
+        "spanish": "Escribe tu pregunta aquí abajo"
+        },
+    "Reaction": {
+        "english": "User's expected reaction",
+        "italian": "La tua reazione",
+        "spanish": "Tu reaccíon"
+        }
+}
