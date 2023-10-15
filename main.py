@@ -16,7 +16,8 @@ def main():
     st.set_page_config(
     page_title='My Live CV',
         layout='wide',
-        page_icon='📈'
+        page_icon='📈',
+        initial_sidebar_state='expanded'
     )
 
     cols = st.sidebar.columns(5)
