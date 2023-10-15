@@ -39,7 +39,7 @@ cd LiveCV
 
 4. Create an environment variable called `MY_SECRET_API_KEY` .
 
-5. Run the application (provide specific command if any).
+5. Run the application `streamlit run LiveCV/main.py`.
 
 ### Usage
 
