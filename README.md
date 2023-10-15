@@ -1,2 +1,2 @@
 # LiveCV
-streamlit webapp to bring my cv to life
+Streamlit webapp to bring my cv to life.
