@@ -53,7 +53,8 @@ def main():
     user_input = st.text_input(text['Write Here'][language])
 
     if user_input:
-        transformed_text = get_response(user_input, language)
+        with st.spinner(text['Loading'][language]):
+            transformed_text = get_response(user_input, language)
         st.write(text['Response'][language])
         st.write(transformed_text)
 
