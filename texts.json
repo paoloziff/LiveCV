@@ -33,5 +33,10 @@
         "english": "User's expected reaction",
         "italian": "La tua reazione",
         "spanish": "Tu reaccíon"
+        },
+    "Loading": {
+        "english": "Thinking about it...💭",
+        "italian": "Un attimo che ci penso...💭",
+        "spanish": "Un momento por favor...💭"
         }
 }
