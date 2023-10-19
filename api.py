@@ -5,7 +5,7 @@ def get_response(question, language):
     openai.api_key = os.environ["MY_SECRET_API_KEY"]
 
     # Assuming 'filename.txt' is the name of your file
-    with open('prompt.txt', 'r') as file:
+    with open('data/prompt.txt', 'r') as file:
         content = file.read()
 
     initial_info = f"""You are assisting users to learn more about Paolo and his professional expertise. 
