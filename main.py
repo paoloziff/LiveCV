@@ -3,12 +3,12 @@ import base64
 import streamlit as st
 from api import get_response
 
-with open('texts.json', 'r') as json_file:
+with open('data/texts.json', 'r') as json_file:
     text = json.load(json_file)
 
 
 def reset_language(x):
-    with open('language.txt', 'w') as file:
+    with open('data/language.txt', 'w') as file:
         file.write(x)
 
 
@@ -28,10 +28,10 @@ def main():
     if cols[2].button(':es:'):
         reset_language('spanish')
 
-    with open('language.txt', 'r') as file:
+    with open('data/language.txt', 'r') as file:
         language = file.read()
 
-    st.sidebar.image('Mugshot.png', width=300, clamp=False)
+    st.sidebar.image('data/Mugshot.png', width=300, clamp=False)
     st.sidebar.write(text['Sidebar Title'][language])
     st.sidebar.write(text['Sidebar Text'][language])
 
@@ -40,7 +40,7 @@ def main():
     col1.title(text['Title'][language])
     col1.write(text['Small Text'][language])
 
-    file_ = open("giphy.gif", "rb")
+    file_ = open("data/giphy.gif", "rb")
     contents = file_.read()
     data_url = base64.b64encode(contents).decode("utf-8")
     file_.close()
