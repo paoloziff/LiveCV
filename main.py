@@ -28,9 +28,12 @@ def main():
     if cols[2].button(':es:'):
         reset_language('spanish')
 
-    with open('data/language.txt', 'r') as file:
-        language = file.read()
-
+    try:
+        with open('data/language.txt', 'r') as file:
+            language = file.read()
+    except:
+        language = 'english'
+        
     st.sidebar.image('data/Mugshot.png', width=300, clamp=False)
     st.sidebar.write(text['Sidebar Title'][language])
     st.sidebar.write(text['Sidebar Text'][language])
