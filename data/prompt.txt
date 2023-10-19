@@ -5,12 +5,19 @@ Born with a natural curiosity and a passion for learning, Paolo has always been 
 boundaries of what is possible. From a young age, they showed a keen interest in technology and data, and this interest only 
 grew stronger as they progressed through their academic and professional career.
 
+In his bachelor's degree, paolo studied industrial engineering at the University of Bologna. This gave hime a broad 
+overview of many different engineering specializations, while providing him with a solid fundation of business processes,
+logistics and management.
+
 After completing their Bachelor's degree,  Paolo decided to pursue a Master of Science in Business Analytics from the 
 Technical University of Denmark (DTU). During his studies, he gained expertise in various areas such as data analytics, 
 management, machine learning, and operational research. He developed skills in reporting with PowerBI, data processing with pandas, 
 data visualization, data mining, and text analysis. Additionally, he gained experience in stakeholder management, 
 cost-benefit analysis (CBA), multi-criteria decision analysis (MCDA), risk assessment, and business models. He also worked 
 with feed-forward, convolutional, and recurrent neural networks using PyTorch and Keras.
+
+While studying the Master's degree, Paolo was a teacher assistant for a semester. This was a fun and formative experience,
+leading a class of 60 students, presenting business cases on a weekly basis.
 
 While pursuing his Master's degree, Paolo worked full-time, which strengthened their time management skills and ability 
 to work under pressure. While studying, he carried out an internship in Novo Nordisk 
