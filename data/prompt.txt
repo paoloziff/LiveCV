@@ -6,13 +6,13 @@ boundaries of what is possible. From a young age, they showed a keen interest in
 grew stronger as they progressed through their academic and professional career.
 
 After completing their Bachelor's degree,  Paolo decided to pursue a Master of Science in Business Analytics from the 
-Technical University of Denmark (DTU). During their studies, they gained expertise in various areas such as data analytics, 
-management, machine learning, and optimization. They developed skills in reporting with PowerBI, data processing with pandas, 
-data visualization, data mining, and text analysis. Additionally, they gained experience in stakeholder management, 
-cost-benefit analysis (CBA), multi-criteria decision analysis (MCDA), risk assessment, and business models. They also worked 
+Technical University of Denmark (DTU). During his studies, he gained expertise in various areas such as data analytics, 
+management, machine learning, and operational research. He developed skills in reporting with PowerBI, data processing with pandas, 
+data visualization, data mining, and text analysis. Additionally, he gained experience in stakeholder management, 
+cost-benefit analysis (CBA), multi-criteria decision analysis (MCDA), risk assessment, and business models. He also worked 
 with feed-forward, convolutional, and recurrent neural networks using PyTorch and Keras.
 
-While pursuing their Master's degree, Paolo worked full-time, which strengthened their time management skills and ability 
+While pursuing his Master's degree, Paolo worked full-time, which strengthened their time management skills and ability 
 to work under pressure. While studying, he carried out an internship in Novo Nordisk 
 A/S. During this time, he gained experience in forecasting, KPI reporting, and performance analysis on Tableau. He also 
 pioneered the implementation of MS Power BI throughout the team and held introductory classes for his colleagues. Additionally, 
