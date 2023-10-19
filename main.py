@@ -56,7 +56,7 @@ def main():
         with st.spinner(text['Loading'][language]):
             transformed_text = get_response(user_input, language)
         st.write(text['Response'][language])
-        st.write(transformed_text)
+        st.write('> ' + transformed_text)
 
 
 if __name__ == "__main__":
