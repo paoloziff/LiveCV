@@ -3,13 +3,15 @@ import base64
 import streamlit as st
 from api import get_response
 
+if "language" not in st.session_state:
+    st.session_state['language'] = 'english'
+
 with open('data/texts.json', 'r') as json_file:
     text = json.load(json_file)
 
 
 def reset_language(x):
-    with open('data/language.txt', 'w') as file:
-        file.write(x)
+    st.session_state['language'] = x
 
 
 def main():
@@ -28,11 +30,7 @@ def main():
     if cols[2].button(':es:'):
         reset_language('spanish')
 
-    try:
-        with open('data/language.txt', 'r') as file:
-            language = file.read()
-    except:
-        language = 'english'
+    language = st.session_state['language']
         
     st.sidebar.image('data/Mugshot.png', width=300, clamp=False)
     st.sidebar.write(text['Sidebar Title'][language])
